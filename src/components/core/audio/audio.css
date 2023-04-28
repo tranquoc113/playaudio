@@ -1,0 +1,16 @@
+.list-item-audio {
+    margin: 20px;
+}
+
+.list-item-audio li:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.list-item-audio>.active {
+    color: red;
+    cursor: pointer;
+}
+.list-item-audio li{
+    width: fit-content;
+}
